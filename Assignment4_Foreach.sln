@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Assignment4_Foreach", "Assignment4_Foreach\Assignment4_Foreach.dtproj", "{98979C45-1DC6-4F60-B8BE-88550E726D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98979C45-1DC6-4F60-B8BE-88550E726D7D}.Development|Default.ActiveCfg = Development
+		{98979C45-1DC6-4F60-B8BE-88550E726D7D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D67BFFD-F79C-4C1D-9FA9-4E5258424BF7}
+	EndGlobalSection
+EndGlobal
